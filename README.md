@@ -10,7 +10,7 @@ This workflow inspired from the Trys Mudford's [Arrows](https://arrows.trysmudfo
 
 ## Installing
 
-1. Download the latest release ZIP from releases.
+1. Download the latest release ZIP from [releases](https://github.com/saneef/alfred-arrows/releases).
 2. Unzip.
 3. Open `Unravel.alfredworkflow` to install the workflow.
 
