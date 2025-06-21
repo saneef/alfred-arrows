@@ -31,9 +31,16 @@ def generate_alfred_json(entries)
 		{
 			title: el[:char],
 			subtitle: "#{el[:keywords]} · Enter to copy... #{el[:char]}",
-			arg: el[:char]
+			arg: el[:char],
+			valid: true
 		}
 	end
+
+	results = [{
+		title: "No arrows found",
+		subtitle: "Try searching top, left,...",
+		valid: false
+	}] if results.empty?
 
 	{items: results}
 end
