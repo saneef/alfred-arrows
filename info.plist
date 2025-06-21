@@ -100,7 +100,9 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string></string>
+	<string>Search for the Unicode arrow characters from Alfred.
+
+This workflow inspired from the Trys Mudford's [Arrows](https://arrows.trysmudford.com) webpage.</string>
 	<key>uidata</key>
 	<dict>
 		<key>C8EC482C-DBD2-4214-AD07-0B21C5C3D25F</key>
@@ -119,8 +121,6 @@
 		</dict>
 	</dict>
 	<key>userconfigurationconfig</key>
-	<array/>
-	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
 	<string>2025.06.21</string>
