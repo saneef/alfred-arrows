@@ -122,6 +122,8 @@ This workflow inspired from the Trys Mudford's [Arrows](https://arrows.trysmudfo
 	</dict>
 	<key>userconfigurationconfig</key>
 	<array/>
+	<key>variablesdontexport</key>
+	<array/>
 	<key>version</key>
 	<string>2025.06.21</string>
 	<key>webaddress</key>
